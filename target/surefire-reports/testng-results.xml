@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="26" started-at="2016-10-28T05:05:07Z" finished-at="2016-10-28T05:05:07Z">
+    <groups>
+      <group name="removeCharacterInStringUsingReplace">
+        <method signature="stringRemoveUsingReplaceTest.testRemoveCaseSensivity()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveCaseSensivity" class="com.anuradha.stringProblem.stringRemoveUsingReplaceTest"/>
+        <method signature="stringRemoveUsingReplaceTest.testRemoveMultipleOccurencesFromString()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveMultipleOccurencesFromString" class="com.anuradha.stringProblem.stringRemoveUsingReplaceTest"/>
+        <method signature="stringRemoveUsingReplaceTest.testRemoveMultipleWhiteSpaces()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveMultipleWhiteSpaces" class="com.anuradha.stringProblem.stringRemoveUsingReplaceTest"/>
+        <method signature="stringRemoveUsingReplaceTest.testRemoveNotMatchingCharacter()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveNotMatchingCharacter" class="com.anuradha.stringProblem.stringRemoveUsingReplaceTest"/>
+        <method signature="stringRemoveUsingReplaceTest.testRemoveNumber()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveNumber" class="com.anuradha.stringProblem.stringRemoveUsingReplaceTest"/>
+        <method signature="stringRemoveUsingReplaceTest.testRemoveSpecialCharacter()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveSpecialCharacter" class="com.anuradha.stringProblem.stringRemoveUsingReplaceTest"/>
+        <method signature="stringRemoveUsingReplaceTest.testRemoveWhiteSpace()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveWhiteSpace" class="com.anuradha.stringProblem.stringRemoveUsingReplaceTest"/>
+        <method signature="stringRemoveUsingReplaceTest.testsingleFromString()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testsingleFromString" class="com.anuradha.stringProblem.stringRemoveUsingReplaceTest"/>
+      </group> <!-- removeCharacterInStringUsingReplace -->
+      <group name="removeCharacterInString">
+        <method signature="stringRemoveTest.testRemoveCaseSensivity()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveCaseSensivity" class="com.anuradha.stringProblem.stringRemoveTest"/>
+        <method signature="stringRemoveTest.testRemoveMultipleOccurencesFromString()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveMultipleOccurencesFromString" class="com.anuradha.stringProblem.stringRemoveTest"/>
+        <method signature="stringRemoveTest.testRemoveMultipleWhiteSpaces()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveMultipleWhiteSpaces" class="com.anuradha.stringProblem.stringRemoveTest"/>
+        <method signature="stringRemoveTest.testRemoveNotMatchingCharacter()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveNotMatchingCharacter" class="com.anuradha.stringProblem.stringRemoveTest"/>
+        <method signature="stringRemoveTest.testRemoveNumber()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveNumber" class="com.anuradha.stringProblem.stringRemoveTest"/>
+        <method signature="stringRemoveTest.testRemoveSpecialCharacter()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveSpecialCharacter" class="com.anuradha.stringProblem.stringRemoveTest"/>
+        <method signature="stringRemoveTest.testRemoveWhiteSpace()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveWhiteSpace" class="com.anuradha.stringProblem.stringRemoveTest"/>
+        <method signature="stringRemoveTest.testsingleFromString()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testsingleFromString" class="com.anuradha.stringProblem.stringRemoveTest"/>
+      </group> <!-- removeCharacterInString -->
+    </groups>
+    <test name="Command line test" duration-ms="26" started-at="2016-10-28T05:05:07Z" finished-at="2016-10-28T05:05:07Z">
+      <class name="com.anuradha.stringProblem.stringRemoveUsingReplaceTest">
+        <test-method status="PASS" signature="testRemoveCaseSensivity()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveCaseSensivity" duration-ms="1" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveCaseSensivity -->
+        <test-method status="PASS" signature="testRemoveMultipleOccurencesFromString()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveMultipleOccurencesFromString" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveMultipleOccurencesFromString -->
+        <test-method status="PASS" signature="testRemoveMultipleWhiteSpaces()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveMultipleWhiteSpaces" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveMultipleWhiteSpaces -->
+        <test-method status="PASS" signature="testRemoveNotMatchingCharacter()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveNotMatchingCharacter" duration-ms="1" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveNotMatchingCharacter -->
+        <test-method status="PASS" signature="testRemoveSpecialCharacter()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveSpecialCharacter" duration-ms="1" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveSpecialCharacter -->
+        <test-method status="PASS" signature="testRemoveNumber()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveNumber" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveNumber -->
+        <test-method status="PASS" signature="testRemoveWhiteSpace()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testRemoveWhiteSpace" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveWhiteSpace -->
+        <test-method status="PASS" signature="testsingleFromString()[pri:0, instance:com.anuradha.stringProblem.stringRemoveUsingReplaceTest@7e0ea639]" name="testsingleFromString" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsingleFromString -->
+      </class> <!-- com.anuradha.stringProblem.stringRemoveUsingReplaceTest -->
+      <class name="com.anuradha.stringProblem.stringRemoveTest">
+        <test-method status="PASS" signature="testRemoveCaseSensivity()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveCaseSensivity" duration-ms="9" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveCaseSensivity -->
+        <test-method status="PASS" signature="testRemoveMultipleWhiteSpaces()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveMultipleWhiteSpaces" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveMultipleWhiteSpaces -->
+        <test-method status="PASS" signature="testRemoveMultipleOccurencesFromString()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveMultipleOccurencesFromString" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveMultipleOccurencesFromString -->
+        <test-method status="PASS" signature="testRemoveNotMatchingCharacter()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveNotMatchingCharacter" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveNotMatchingCharacter -->
+        <test-method status="PASS" signature="testRemoveNumber()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveNumber" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveNumber -->
+        <test-method status="PASS" signature="testRemoveSpecialCharacter()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveSpecialCharacter" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveSpecialCharacter -->
+        <test-method status="PASS" signature="testRemoveWhiteSpace()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testRemoveWhiteSpace" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRemoveWhiteSpace -->
+        <test-method status="PASS" signature="testsingleFromString()[pri:0, instance:com.anuradha.stringProblem.stringRemoveTest@6a5fc7f7]" name="testsingleFromString" duration-ms="0" started-at="2016-10-28T01:05:07Z" finished-at="2016-10-28T01:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsingleFromString -->
+      </class> <!-- com.anuradha.stringProblem.stringRemoveTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
